@@ -55,14 +55,16 @@
   ],
   "materials": [
     {
-      "name": "fallback Material",
+      "name": "M_01___Default",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.8784313725490196,
-          0.33725490196078434,
-          0.33725490196078434,
+          0.5,
+          0.5,
+          0.5,
           1.0
-        ]
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
       }
     }
   ],
