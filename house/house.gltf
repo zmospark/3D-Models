@@ -3,15 +3,15 @@
     {
       "bufferView": 0,
       "componentType": 5126,
-      "count": 175,
+      "count": 190,
       "max": [
-        50.0,
-        50.0,
+        50.000003814697266,
+        50.000003814697266,
         100.0
       ],
       "min": [
-        -50.0,
-        -50.0,
+        -50.000003814697266,
+        -50.000003814697266,
         0.0
       ],
       "type": "VEC3"
@@ -20,14 +20,14 @@
       "bufferView": 0,
       "byteOffset": 12,
       "componentType": 5126,
-      "count": 175,
+      "count": 190,
       "type": "VEC3"
     },
     {
       "bufferView": 0,
       "byteOffset": 24,
       "componentType": 5126,
-      "count": 175,
+      "count": 190,
       "type": "VEC2"
     },
     {
@@ -43,20 +43,20 @@
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 5600,
+      "byteLength": 6080,
       "byteStride": 32,
       "target": 34962
     },
     {
       "buffer": 0,
       "byteLength": 1104,
-      "byteOffset": 5600,
+      "byteOffset": 6080,
       "target": 34963
     }
   ],
   "buffers": [
     {
-      "byteLength": 6704,
+      "byteLength": 7184,
       "uri": "house.bin"
     }
   ],
